@@ -1,0 +1,31 @@
+html body {
+  background: #ffffff ;
+  font-family: 'Helvetica Neue', 'system-ui', 'Arial', sans-serif;
+}
+
+
+
+.inheader {
+  font-size: 1.000em;
+}
+
+.color-1 {
+  color: #00A1FF !important;
+}
+
+.color-2 {
+  color: #919191 !important;
+}
+
+.bg-color-1 {
+  background-color: #00A1FF !important;
+}
+
+.mt-6 {
+  margin-top: 6rem !important;
+}
+
+body {
+  min-height: 75rem;
+  padding-top: 6rem;
+}
